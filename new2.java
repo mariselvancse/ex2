@@ -1,3 +1,1 @@
-public class new2 {
-    
-}
+public class new2
